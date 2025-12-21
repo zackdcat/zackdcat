@@ -9,8 +9,8 @@ modrinth: https://modrinth.com/user/zackdcat<br>
 
 # Less programming:
 
-Main yt channel (minecraft): https://www.youtube.com/@zackdcats
-Secondary yt channel (coding): https://www.youtube.com/@zackddocumentationcat
-ko-fi: https://ko-fi.com/zackdcat/shop
+Main yt channel (minecraft): https://www.youtube.com/@zackdcats<br>
+Secondary yt channel (coding): https://www.youtube.com/@zackddocumentationcat<br>
+ko-fi: https://ko-fi.com/zackdcat/shop<br>
 
 
