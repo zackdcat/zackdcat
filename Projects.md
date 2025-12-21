@@ -3,7 +3,7 @@
 #  _*Projects i have made:*_
 I will add projects i have made/worked on here when i round to it.
 
-website: zackdcat.site<br>
+website: https://zackdcat.site<br>
 discord bot: https://ko-fi.com/s/584827e3de<br>
 github: https://github.com/Zacklikescats/<br>
 modrinth: https://modrinth.com/user/zackdcat<br>
