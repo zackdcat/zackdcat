@@ -1,5 +1,5 @@
 #  _*Projects i have made:*_
-I will add projects i have made/worked on here when i round to it.
+Projects i have made/worked on. I will update when i round to it.
 
 website: https://zackdcat.site<br>
 discord bot: https://ko-fi.com/s/584827e3de<br>
