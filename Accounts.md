@@ -1,6 +1,6 @@
 # Accounts:
 
-(Discontinued) Yt channel (fortnite) https://www.youtube.com/@ILovecatsomuchyt<br>
+(Discontinued) Yt channel (fortnite): https://www.youtube.com/@ILovecatsomuchyt<br>
 Main yt channel (minecraft): https://www.youtube.com/@zackdcats<br>
 Secondary yt channel (coding): https://www.youtube.com/@zackddocumentationcat<br>
 ko-fi: https://ko-fi.com/zackdcat/shop<br>
